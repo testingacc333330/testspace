@@ -12,6 +12,6 @@ COPY . .
 
 RUN pnpm rebuild
 
-VOLUME ["./db"]
+VOLUME ["/db"]
 
 CMD ["pnpm", "dev"]
