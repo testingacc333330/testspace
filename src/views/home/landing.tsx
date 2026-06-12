@@ -56,9 +56,6 @@ export function LandingPage(props: {
           <SourceBox />
         </SplitPane>
       </SplitLayout>
-      <div class="info-grid">
-        {landingCards.map((info) => <InfoCard {...info} />)}
-      </div>
     </Layout>
   );
 }

@@ -32,18 +32,18 @@ export const defaultHeaderIconSvg = brandIconSvg;
 
 export const defaultSiteSettings = {
   identity: {
-    name: "bliish.space",
-    tagline: "a space for anyone",
+    name: "testings.space",
+    tagline: "a space for whoever",
     headerIconName: defaultHeaderIconName,
     headerIconSvg: defaultHeaderIconSvg
   },
   home: {
-    announcement: "[url=https://bliish.space]Bliish.space[/url] is an open-source project by [url=https://bliish.com]Bliish.com[/url], built for small, customizable, self-hosted social communities.",
-    welcomeText: "Bliish.space is an ultra-fast, lightweight, open-source social platform with customizable profiles, no ads, no tracking, and simple, affordable self-hosting."
+    announcement: "lolz",
+    welcomeText: "hi! welcome to testings.space"
   },
   contact: {
-    email: "hi@bliish.com",
-    companyName: "Bliish LLC",
+    email: "testingacc333330@gmail.com",
+    companyName: "testingacc333330",
     mailingAddress: ""
   },
   updatedAt: null

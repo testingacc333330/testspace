@@ -30,7 +30,7 @@ export function siteSeoDescription(settings: SiteSettings) {
 
 export function siteMarketingDescription(settings: Pick<SiteSettings, "identity">) {
   const name = settings.identity.name.trim() || sourceProject.name;
-  return `${name} is an ultra-fast, lightweight, open-source social platform with customizable profiles, no ads, no tracking, and simple, affordable self-hosting.`;
+  return `${name} is a indie myspace-like website, powered by bliish.space`;
 }
 
 export function seoText(input: string, maxLength = 180) {
